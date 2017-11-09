@@ -1,3 +1,4 @@
 {
-    "plugins": ["iframely"]
+    "plugins": ["iframely"],
+    "plugins": ["collapsible-menu"]
 }
