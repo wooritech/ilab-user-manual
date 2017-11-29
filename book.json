@@ -1,3 +1,6 @@
 {
-    "plugins": ["iframely","collapsible-menu"]
+    "plugins": ["iframely","collapsible-menu"],
+    "search": {
+        "maxIndexSize": 1000000000
+    }
 }
