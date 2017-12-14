@@ -1,6 +1,22 @@
 {
-    "plugins": ["iframely","collapsible-menu"],
-    "search": {
-        "maxIndexSize": 1000000000
-    }
+  "gitbook": "3.2.3",
+  "title": "아이랩 도움말",
+  "description": "아이랩 도움말",
+  "structure": {
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "iframely",
+    "prism@2.0.0",
+    "-highlight",
+    "codeblock-disable-glossary",
+    "collapsible-chapters",
+    "anchors"
+  ],
+  "search": {
+    "maxIndexSize": 1000000000
+  },
+  "pluginsConfig": {
+    "collapsible-chapters":{}
+  }
 }
