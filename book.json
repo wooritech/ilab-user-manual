@@ -9,6 +9,7 @@
     "iframely",
     "prism@2.0.0",
     "-highlight",
+    "advanced-emoji",
     "codeblock-disable-glossary",
     "collapsible-chapters",
     "anchors"
