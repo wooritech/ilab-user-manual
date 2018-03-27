@@ -12,7 +12,8 @@
     "advanced-emoji",
     "codeblock-disable-glossary",
     "collapsible-chapters",
-    "anchors"
+    "anchors",
+    "todo"
   ],
   "search": {
     "maxIndexSize": 1000000000
