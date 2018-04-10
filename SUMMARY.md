@@ -1,7 +1,7 @@
 # Table of contents
 
 * [아이랩 도움말](README.md)
-* [아이랩 서비스 이용요금](undefined-1.md)
+* [아이랩 서비스 이용요금](ilabservice.md)
 * [아이랩 서비스 이용약관](undefined-2.md)
 * [아이랩 설치 및 실행](undefined-3.md)
 * [공통기능](undefined-4.md)
