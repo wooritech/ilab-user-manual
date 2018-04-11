@@ -30,17 +30,17 @@
 
 \)
 
- 성적서관리화면에서 접수건 상태를 확인 -&gt; 발송관리에서 조회
+성적서관리화면에서 접수건 상태를 확인 -&gt; 발송관리에서 조회
 
 ![](../.gitbook/assets/02%20%2841%29.png)
 
 ![](../.gitbook/assets/03-_%20%2813%29.png)
 
-![](../.gitbook/assets/04-_%20%282%29.png)
+![](../.gitbook/assets/04-_-2.png)
 
 ## 버튼설명
 
-![](../.gitbook/assets/05%20%281%29.png)
+![](../.gitbook/assets/05%20%284%29.png)
 
 **발송지변경**
 
@@ -128,7 +128,7 @@
 
 \)
 
-![](../.gitbook/assets/10%20%2825%29.png)
+![](../.gitbook/assets/10-25.png)
 
 ![](../.gitbook/assets/11%20%2816%29.png)
 

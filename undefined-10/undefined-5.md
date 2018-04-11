@@ -6,7 +6,7 @@
 
 **화면구성-**
 
-![](../.gitbook/assets/042.png)
+![](../.gitbook/assets/042%20%282%29.png)
 
 ## 조회
 
@@ -16,7 +16,7 @@
 
 견적서 작성 시 금액이 입력된 경우라면 하단 부분에 합계 금액이 표기 됩니다.
 
-![](../.gitbook/assets/043%20%281%29.png)
+![](../.gitbook/assets/043-1.png)
 
 ## 버튼설명
 
@@ -58,7 +58,7 @@
 
 ![](../.gitbook/assets/047-_%20%281%29.png)
 
-![](../.gitbook/assets/048-_.png)
+![](../.gitbook/assets/048-_%20%282%29.png)
 
 **접수목록 가져오기**
 
@@ -78,7 +78,7 @@
 
 ![](../.gitbook/assets/051-_%20%281%29.png)
 
-![](../.gitbook/assets/052-_.png)
+![](../.gitbook/assets/052-_%20%281%29.png)
 
 3.2 키보드의 “Insert 키” 또는 마지막 행에서 아래 방향키 “↓” 또는 “행 추가” 버튼을 눌러 행을 하나 씩 추가하여 수기로 견적서를 입력할 수도 있습니다.
 
@@ -99,7 +99,7 @@
 
 예\) 1,1,1-트리클로로에탄 항목 선택 -&gt; 아래로 버튼 클릭.
 
-![](../.gitbook/assets/053-_.png)
+![](../.gitbook/assets/053-_%20%283%29.png)
 
 ![](../.gitbook/assets/054-_%20%282%29.png)
 
@@ -121,7 +121,7 @@
 
 ![](../.gitbook/assets/056-_.png)
 
-![](../.gitbook/assets/057-_.png)
+![](../.gitbook/assets/057-_%20%283%29.png)
 
 &lt;행 복제&gt;
 
@@ -167,7 +167,7 @@
 
 ![](../.gitbook/assets/065%20%281%29.png)
 
-![](../.gitbook/assets/066-_%20%281%29.png)
+![](../.gitbook/assets/066-_%20%282%29.png)
 
 ![](../.gitbook/assets/067-_.png)
 
@@ -177,7 +177,7 @@
 
 ※할인 금액 적용시에는 금액 앞에 “-”를 붙여주세요.
 
-![](../.gitbook/assets/068.png)
+![](../.gitbook/assets/068%20%281%29.png)
 
 **세부항목 카테고리 저장**
 
@@ -216,13 +216,13 @@
 
 견적서 작성시 견적서를 잠궈둔 경우라면 삭제 할 수 없습니다.
 
-![](../.gitbook/assets/074-_%20%282%29.png)
+![](../.gitbook/assets/074-_-2.png)
 
 ![](../.gitbook/assets/075-_.png)
 
 &lt;행 삭제&gt;
 
-![](../.gitbook/assets/076-_.png)
+![](../.gitbook/assets/076-_%20%283%29.png)
 
 ![](../.gitbook/assets/077-_%20%281%29.png)
 

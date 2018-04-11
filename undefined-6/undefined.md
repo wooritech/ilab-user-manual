@@ -14,7 +14,7 @@
 
 ![](../.gitbook/assets/01%20%2858%29.png)
 
- -&gt; 
+-&gt;
 
 ![](../.gitbook/assets/02%20%2818%29.png)
 
@@ -82,7 +82,7 @@
 
 원하시는 순서로 저장해보세요
 
-![](../.gitbook/assets/06%20%284%29.png)
+![](../.gitbook/assets/06-4.png)
 
 **분류**
 

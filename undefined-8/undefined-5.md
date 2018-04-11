@@ -28,7 +28,7 @@
 
 ## 조회
 
-![](../.gitbook/assets/240%20%282%29.png)
+![](../.gitbook/assets/240-2.png)
 
 ## 버튼설명
 

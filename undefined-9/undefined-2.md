@@ -15,7 +15,7 @@
 
 **화면구성-**
 
-![](../.gitbook/assets/004.png)
+![](../.gitbook/assets/004%20%281%29.png)
 
 ## 조회
 
@@ -67,7 +67,7 @@
 
 ## 버튼설명
 
-![](../.gitbook/assets/011%20%283%29.png)
+![](../.gitbook/assets/011-3.png)
 
 **과거 결과 조회**
 
@@ -77,7 +77,7 @@
 
 \(결과값이 입력되어 판정이 적합 또는 부적합이 모두 나온 항목에 한하여 조회 됩니다.\)
 
-![](../.gitbook/assets/012%20%283%29.png)
+![](../.gitbook/assets/012%20%284%29.png)
 
 기본적으로 선택한 항목에대한 접수건 정보를 가지고 자동 조회합니다.
 
@@ -149,11 +149,11 @@
 
 &lt;내 승인&gt;
 
-![](../.gitbook/assets/019-_.png)
+![](../.gitbook/assets/019-_%20%281%29.png)
 
-![](../.gitbook/assets/020-_-2.png)
+![](../.gitbook/assets/020-_-2%20%281%29.png)
 
 &lt;성적서관리 화면&gt;
 
-![](../.gitbook/assets/021%20%282%29.png)
+![](../.gitbook/assets/021-2.png)
 

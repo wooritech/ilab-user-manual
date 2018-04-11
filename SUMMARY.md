@@ -78,56 +78,56 @@
   * [2. 리포트 양식 만들기 기초](undefined-15/2./README.md)
     * [201. 리포트관리 화면](undefined-15/2./201..md)
     * [202. 새 리포트 양식 만들기](undefined-15/2./202..md)
-* [자주하는 질문](undefined-16/README.md)
-  * [한글입력 문제](undefined-16/undefined.md)
-  * [아이랩 실행 오류 문제](undefined-16/undefined-1.md)
-  * [PDF변환 출력시 깨짐 현상](undefined-16/pdf.md)
-  * [두 대의 PC에서 다른 인쇄 결과](undefined-16/pc.md)
-  * [임시공휴일 지정 방법](undefined-16/undefined-2.md)
-  * [새로운 사용자 추가 방법](undefined-16/undefined-3.md)
-  * [리포트에 대괄호 사용](undefined-16/undefined-4.md)
-  * [리포트 복제후 수정](undefined-16/undefined-5.md)
-  * [기록서 양식 수정시 오류](undefined-16/undefined-6.md)
-  * [리포트 출력시 가로세로 줄 정렬](undefined-16/undefined-7.md)
-  * [출력물의 라인 굵기 조절하기](undefined-16/undefined-8.md)
-  * [시험법 변수 추가 후 사용](undefined-16/undefined-9.md)
-  * [리포트 윗첨자 아랫첨자 사용](undefined-16/undefined-10.md)
-  * [접수화면 파일관리 방법](undefined-16/undefined-11.md)
-  * [리포트 소수점 자리 고정 방법](undefined-16/undefined-12.md)
-  * [출력물 글씨 자동 조절 방법](undefined-16/undefined-13.md)
-  * [리포트 디자인시 짤리는 부분 보는 방법](undefined-16/undefined-14.md)
-  * [기록서A타입 출력물 사인 자동연동 방법](undefined-16/a.md)
-  * [리포트 양식 정렬 및 자간 조절 방법](undefined-16/undefined-15.md)
-  * [리포트 양식 추가,복제,삭제 방법](undefined-16/undefined-16.md)
-  * [리포트 업로드 이력 확인](undefined-16/undefined-17.md)
-  * [출력물에 페이지 표시 방법](undefined-16/undefined-18.md)
-  * [성적서에 공란을 넣어 출력하는 방법](undefined-16/undefined-19.md)
-  * [성적서에 발행이 몇번째인지 표시하는 방법](undefined-16/undefined-20.md)
-  * [리포트에서 변수목록 보는 방법](undefined-16/undefined-21.md)
-  * [항목 기준을 변경하는 방법](undefined-16/undefined-22.md)
-  * [성적서에 일부항목 제외후 출력하는 법](undefined-16/undefined-23.md)
-  * [결과가 입력된 항목 교체하기](undefined-16/undefined-24.md)
-  * [관련법령 자동 선택되게 하기](undefined-16/undefined-25.md)
-  * [기준이 다른 항목 추가하기](undefined-16/undefined-26.md)
-  * [검사항목 추가 및 삭제](undefined-16/undefined-27.md)
-  * [시험법 계산식 if문 사용법g](undefined-16/if-g.md)
-  * [시험법 변경 방법](undefined-16/undefined-28.md)
-  * [항목 규격 수정 방법](undefined-16/undefined-29.md)
-  * [기록서에 이미지 변수 사용법](undefined-16/undefined-30.md)
-  * [시험결과서 A,B,C 타입의 차이점](undefined-16/a-b-c.md)
-  * [성적서 판정식 변경 방법](undefined-16/undefined-31.md)
-  * [항목 담당자 변경 방법](undefined-16/undefined-32.md)
-  * [항목 규격 변경 방법](undefined-16/undefined-33.md)
-  * [성적서에서 여러 변수 이용 방법](undefined-16/undefined-34.md)
-  * [검체유형 처리기한 설정법](undefined-16/undefined-35.md)
-  * [접수화면 데이터를 계산식에 사용하는 방법](undefined-16/undefined-36.md)
-  * [항목순서세트 만드는 방법](undefined-16/undefined-37.md)
-  * [새로운 검체유형 추가 방법](undefined-16/undefined-38.md)
-  * [성적서 기본 연결양식 변경법](undefined-16/undefined-39.md)
-  * [견적서관리 출력물 발급 방법](undefined-16/undefined-40.md)
-  * [전자세금계산서 사용 방법](undefined-16/undefined-41.md)
-  * [세금계산서 발행을 미발행으로 변경 방법](undefined-16/undefined-42.md)
-  * [카드결제시 계산서발행 여부](undefined-16/undefined-43.md)
-  * [접수화면의 입금상태 변경](undefined-16/undefined-44.md)
-  * [성적서PDF 저장폴더 경로 설정법](undefined-16/pdf-1.md)
+* 자주하는 질문
+  * 한글입력 문제
+  * 아이랩 실행 오류 문제
+  * PDF변환 출력시 깨짐 현상
+  * 두 대의 PC에서 다른 인쇄 결과
+  * 임시공휴일 지정 방법
+  * 새로운 사용자 추가 방법
+  * 리포트에 대괄호 사용
+  * 리포트 복제후 수정
+  * 기록서 양식 수정시 오류
+  * 리포트 출력시 가로세로 줄 정렬
+  * 출력물의 라인 굵기 조절하기
+  * 시험법 변수 추가 후 사용
+  * 리포트 윗첨자 아랫첨자 사용
+  * 접수화면 파일관리 방법
+  * 리포트 소수점 자리 고정 방법
+  * 출력물 글씨 자동 조절 방법
+  * 리포트 디자인시 짤리는 부분 보는 방법
+  * 기록서A타입 출력물 사인 자동연동 방법
+  * 리포트 양식 정렬 및 자간 조절 방법
+  * 리포트 양식 추가,복제,삭제 방법
+  * 리포트 업로드 이력 확인
+  * 출력물에 페이지 표시 방법
+  * 성적서에 공란을 넣어 출력하는 방법
+  * 성적서에 발행이 몇번째인지 표시하는 방법
+  * 리포트에서 변수목록 보는 방법
+  * 항목 기준을 변경하는 방법
+  * 성적서에 일부항목 제외후 출력하는 법
+  * 결과가 입력된 항목 교체하기
+  * 관련법령 자동 선택되게 하기
+  * 기준이 다른 항목 추가하기
+  * 검사항목 추가 및 삭제
+  * 시험법 계산식 if문 사용법g
+  * 시험법 변경 방법
+  * 항목 규격 수정 방법
+  * 기록서에 이미지 변수 사용법
+  * 시험결과서 A,B,C 타입의 차이점
+  * 성적서 판정식 변경 방법
+  * 항목 담당자 변경 방법
+  * 항목 규격 변경 방법
+  * 성적서에서 여러 변수 이용 방법
+  * 검체유형 처리기한 설정법
+  * 접수화면 데이터를 계산식에 사용하는 방법
+  * 항목순서세트 만드는 방법
+  * 새로운 검체유형 추가 방법
+  * 성적서 기본 연결양식 변경법
+  * 견적서관리 출력물 발급 방법
+  * 전자세금계산서 사용 방법
+  * 세금계산서 발행을 미발행으로 변경 방법
+  * 카드결제시 계산서발행 여부
+  * 접수화면의 입금상태 변경
+  * 성적서PDF 저장폴더 경로 설정법
 

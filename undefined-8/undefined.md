@@ -31,7 +31,7 @@
 
 화면구성-
 
-![](../.gitbook/assets/00%20%281%29.png)
+![](../.gitbook/assets/00-1.png)
 
 ## 시험팀 추가 및 수정
 
@@ -51,11 +51,11 @@
 
 조회된 시험팀 목록 중에서 선택한 시험팀의 명칭을 수정합니다.
 
-![](../.gitbook/assets/03%20%2850%29.png)
+![](../.gitbook/assets/03-50.png)
 
 ![](../.gitbook/assets/04-2%20%284%29.png)
 
-![](../.gitbook/assets/05%20%283%29.png)
+![](../.gitbook/assets/05%20%288%29.png)
 
 ### 항목 담당자 추가 및 삭제
 
@@ -71,7 +71,7 @@
 
 ![](../.gitbook/assets/07-2%20%282%29.png)
 
-![](../.gitbook/assets/08%20%285%29.png)
+![](../.gitbook/assets/08-5.png)
 
 **삭제**
 
@@ -91,11 +91,11 @@
 
 ※ 변경 이후 시점부터 검토요청이 진행되는 항목들부터 변경된 검토자로 검토가 올라오게 됩니다. \(검토자 변경전에 이미 검토가 진행된 항목의 검토자는 변경되지 않습니다.\)
 
-![](../.gitbook/assets/09%20%288%29.png)
+![](../.gitbook/assets/09-8.png)
 
-![](../.gitbook/assets/10.png)
+![](../.gitbook/assets/10%20%281%29.png)
 
-![](../.gitbook/assets/11%20%284%29.png)
+![](../.gitbook/assets/11-4.png)
 
 ### 분야별 승인자\(최종승인자\) 지정
 
@@ -109,5 +109,5 @@
 
 ![](../.gitbook/assets/13-1%20%281%29.png)
 
-![](../.gitbook/assets/14%20%287%29.png)
+![](../.gitbook/assets/14-7.png)
 

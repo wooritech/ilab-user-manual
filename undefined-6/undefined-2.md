@@ -27,7 +27,7 @@
 
 ![](../.gitbook/assets/08%20%2815%29.png)
 
-![](../.gitbook/assets/09%20%285%29.png)
+![](../.gitbook/assets/09%20%2812%29.png)
 
 **부서추가**  
 부서추가 버튼을 누름과 동시에 “새 부서”라는 부서가 트리 가장아래에 생성되며, 생성된 “새 부서”를 선택 후  
@@ -39,9 +39,9 @@
 
 ![](../.gitbook/assets/10%20%2810%29.png)
 
-![](../.gitbook/assets/11%20%286%29.png)
+![](../.gitbook/assets/11%20%289%29.png)
 
-![](../.gitbook/assets/12%20%287%29.png)
+![](../.gitbook/assets/12-7.png)
 
 **부서삭제**  
 선택한 부서를 삭제합니다.  
@@ -84,7 +84,7 @@
 
 \(
 
-메뉴권한관리 매뉴얼 : 
+메뉴권한관리 매뉴얼 :
 
 [https://help.ilabs.co.kr/009도구/메뉴권한관리.html](https://help.ilabs.co.kr/009도구/메뉴권한관리.html)
 
@@ -92,7 +92,7 @@
 
 권한이 등록되어있는 경우라면 메뉴권한관리 화면을 볼 수 없더라도, 사용자를 추가할 수 있습니다.
 
-![](../.gitbook/assets/16%20%2811%29.png)
+![](../.gitbook/assets/16-11.png)
 
 ![](https://cafeptthumb-phinf.pstatic.net/20160519_214/wooritechinc_1463631090481dqivd_PNG/%B1%C7%C7%D1.png?type=w740)
 
@@ -130,7 +130,7 @@
 
 \)
 
-![](../.gitbook/assets/18%20%2811%29.png)
+![](../.gitbook/assets/18-11.png)
 
 **저장**  
 입력된 사용자의 정보를 저장합니다.
