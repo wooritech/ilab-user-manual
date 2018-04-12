@@ -1,9 +1,6 @@
-# 도움말
+# 도구
 
-* [원격지원요청](undefined.md)
-* [새 서비스요청](undefined-1.md)
-* 서비스 요청 목록
-* 시료관리
-* [아이랩 매뉴얼](undefined-4.md)
-* [프로그램 정보](undefined-5.md)
+* [옵션](option.md)
+* [메뉴권한관리](0201.md)
+* [비밀번호변경](passwordchange.md)
 
