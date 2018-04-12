@@ -21,9 +21,5 @@
 
 ## 2. 설치 동영상
 
-{% hint style="success" %}
-
-{% endhint %}
-
-\[link\]\([http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=820A56D9E287C9EB9D1A6B9438F8028AAF5E&outKey=V126cc34305660a65f77f675b389fa5c322ed114afd78585c3664675b389fa5c322ed&width=544&height=306](http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=820A56D9E287C9EB9D1A6B9438F8028AAF5E&outKey=V126cc34305660a65f77f675b389fa5c322ed114afd78585c3664675b389fa5c322ed&width=544&height=306)\)
+[아이랩 설치 동영상 시청](http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=820A56D9E287C9EB9D1A6B9438F8028AAF5E&outKey=V126cc34305660a65f77f675b389fa5c322ed114afd78585c3664675b389fa5c322ed&width=544&height=306)
 
