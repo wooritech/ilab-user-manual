@@ -3,7 +3,7 @@
 제공 받은 아이랩을 최초 설치할 경우 해당 매뉴얼을 참고하여 설치하시기 바랍니다.  
 진행 도중에 문제가 발생한다면 **\(주\)우리테크인터내셔날**로 문의해주시면 감사하겠습니다.
 
-## 설치 순서
+## 1. 설치 순서
 
 아이랩 실행 파일이 없으시다면 아래 **아이랩 실행파일 다운로드**를 클릭하여 iLabApp.zip 파일을 다운받으신 후 다운받은 파일의 압축을 해제하여 안내사항대로 진행해보시기 바랍니다.  
 [아이랩 실행파일 다운로드](https://github.com/wooritech/ilab-user-manual/raw/master/assets/iLabApp.zip)
@@ -19,7 +19,11 @@
 
 **※ 초기 비밀번호를 모르실 경우 다른 사용자분께 **[**서비스 요청**](10/undefined-1.md)**으로 초기 비밀번호를 알려달라고 부탁하시기 바랍니다.**
 
-## 설치 동영상
+## 2. 설치 동영상
 
-![](.gitbook/assets/01%20%2817%29.png)
+{% hint style="success" %}
+
+{% endhint %}
+
+\[link\]\([http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=820A56D9E287C9EB9D1A6B9438F8028AAF5E&outKey=V126cc34305660a65f77f675b389fa5c322ed114afd78585c3664675b389fa5c322ed&width=544&height=306](http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=820A56D9E287C9EB9D1A6B9438F8028AAF5E&outKey=V126cc34305660a65f77f675b389fa5c322ed114afd78585c3664675b389fa5c322ed&width=544&height=306)\)
 
