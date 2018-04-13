@@ -77,7 +77,7 @@
     * [201. 리포트관리 화면](reportmake/2./201..md)
     * [202. 새 리포트 양식 만들기](reportmake/2./202..md)
 * [자주하는 질문](faq/README.md)
-  * [한글입력 문제](faq/undefined.md)
+  * [한글입력 문제](faq/001.md)
   * [아이랩 실행 오류 문제](faq/undefined-1.md)
   * [PDF변환 출력시 깨짐 현상](faq/pdf.md)
   * [두 대의 PC에서 다른 인쇄 결과](faq/pc.md)
