@@ -91,7 +91,7 @@
   * [리포트 윗첨자 아랫첨자 사용](faq/undefined-10.md)
   * [접수화면 파일관리 방법](faq/undefined-11.md)
   * [리포트 소수점 자리 고정 방법](faq/undefined-12.md)
-  * [출력물 글씨 자동 조절 방법](faq/undefined-13.md)
+  * [출력물 글씨 자동 조절 방법\(글자크기\)](faq/undefined-13.md)
   * [리포트 디자인시 짤리는 부분 보는 방법](faq/undefined-14.md)
   * [기록서A타입 출력물 사인 자동연동 방법](faq/a.md)
   * [리포트 양식 정렬 및 자간 조절 방법](faq/undefined-15.md)
