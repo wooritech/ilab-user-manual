@@ -127,7 +127,7 @@
   * [카드결제시 계산서발행 여부](faq/undefined-43.md)
   * [접수화면의 입금상태 변경](faq/undefined-44.md)
   * [성적서PDF 저장폴더 경로 설정법](faq/pdf-1.md)
-  * [대량시료에 따른 접수를 일괄적으로 하는 방법](faq/undefined.md)
+  * [대량시료에 따른 접수를 일괄적으로 하는 방법](faq/collectTake.md)
   * [접수가 이미 완료된건의 유형을 변경하는 방법](faq/edit-type.md)
   * [아이랩 리포트 관리에서 각 프레임의 테두리 변경방법](faq/line-settings.md)
   * [리포트 작성시 텍스트 상자를 틀에 맞게 일괄로 수정하기](faq/report-integer.md)
