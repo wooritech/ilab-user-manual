@@ -132,5 +132,6 @@
   * [아이랩 리포트 관리에서 각 프레임의 테두리 변경방법](faq/line-settings.md)
   * [리포트 작성시 텍스트 상자를 틀에 맞게 일괄로 수정하기](faq/report-integer.md)
   * [결재상태조회화면에서 결재상태확인](faq/result-confirm.md)
-  * [검사항목의 출력순서 설정방법](faq/undefined-1.md)
+  * [검사항목의 성적서 출력순서 변경방법](faq/undefined-1.md)
+  * [검사결과등록\(시험결과입력\)화면 입력순서 변경](faq/undefined-3.md)
 
