@@ -1,5 +1,5 @@
 ---
-description: 'file:///C:/Users/%EC%9D%B4%EC%8A%B9%EC%97%B0/Downloads/-%20(1).pdf'
+description: 아이랩 리포트 기초작성 매뉴얼
 ---
 
 # 리포트 양식 만들기
@@ -7,6 +7,8 @@ description: 'file:///C:/Users/%EC%9D%B4%EC%8A%B9%EC%97%B0/Downloads/-%20(1).pdf
 ## 개요
 
 아이랩에서 성적서, 기록서 등 출력되는 리포트의 모든 양식은 **공통/코드 관리 &gt; 리포트 관리**에서 관리 됩니다. 리포트 양식은 아래와 같이 용도별로 분류되어 있습니다. 아래 분류된 양식 이외의 양식이 필요하신 경우 아이랩 헬프데스크로 연락 주시면 상담해 드리겠습니다.
+
+[아이랩 기본 매뉴얼.PDF](file:///C:/Users/%EC%9D%B4%EC%8A%B9%EC%97%B0/Downloads/-%20%281%29.pdf)
 
 ## 특징
 
