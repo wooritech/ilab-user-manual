@@ -16,7 +16,7 @@ description: 이미 접수가 완료된 건의 유형을 다른 유형으로 변
 접수화면에서 `다른 유형으로 변경` 버튼이 보이지 않을 경우, [메뉴 권한 관리 화면](https://help.ilabs.co.kr/10/0201)에 대한 권한을 가지고 있는 사용자에게 권한을 요청하여 진행합니다.
 {% endhint %}
 
-![&#xBA54;&#xB274;&#xAD8C;&#xD55C;&#xAD00;&#xB9AC; &#xD654;&#xBA74;&#xC5D0;&#xC11C; &#xAD8C;&#xD55C;&#xBD80;&#xC5EC;](../.gitbook/assets/15%20%283%29.png)
+![&#xBA54;&#xB274;&#xAD8C;&#xD55C;&#xAD00;&#xB9AC; &#xD654;&#xBA74;&#xC5D0;&#xC11C; &#xAD8C;&#xD55C;&#xBD80;&#xC5EC;](../.gitbook/assets/15%20%284%29.png)
 
 ![&#xC811;&#xC218;&#xD654;&#xBA74;&#xC5D0;&#xC11C; &#xB2E4;&#xB978; &#xC720;&#xD615;&#xC73C;&#xB85C; &#xBCC0;&#xACBD;](../.gitbook/assets/changetype.png)
 
