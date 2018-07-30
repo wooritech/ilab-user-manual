@@ -112,7 +112,7 @@
   * [항목 규격 수정 방법](faq/rule-modified.md)
   * [기록서에 이미지 변수 사용법](faq/undefined-30.md)
   * [시험결과서 A,B,C 타입의 차이점](faq/a-b-c.md)
-  * [성적서 판정식 변경 방법](faq/undefined-31.md)
+  * [성적서 결과값 판정식 변경 방법](faq/05-010.md)
   * [항목 담당자 변경 방법](faq/undefined-32.md)
   * [항목 규격 변경 방법](faq/undefined-33.md)
   * [성적서에서 여러 변수 이용 방법](faq/undefined-34.md)
