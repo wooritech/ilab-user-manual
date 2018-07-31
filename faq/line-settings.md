@@ -32,7 +32,7 @@ description: '리포트 디자인2.0 화면에서 각 프레임(ex - 메모칸, 
 
 ## 2. Object Inspector 속성을 통한 방법
 
-![Object Inspector &#xC18D;&#xC131;&#xC758; Frame&#xC744; &#xC774;&#xC6A9;&#xD55C; &#xAC1C;&#xBCC4;&#xC801;&#xC778; &#xC120;&#xBAA8;&#xC591; &#xC124;&#xC815;](../.gitbook/assets/10.png)
+![Object Inspector &#xC18D;&#xC131;&#xC758; Frame&#xC744; &#xC774;&#xC6A9;&#xD55C; &#xAC1C;&#xBCC4;&#xC801;&#xC778; &#xC120;&#xBAA8;&#xC591; &#xC124;&#xC815;](../.gitbook/assets/10%20%281%29.png)
 
 메모칸을 선택하면 좌측에 `Object Inspector` 창에 세부적인 설정이 나타납니다.
 

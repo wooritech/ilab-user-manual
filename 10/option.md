@@ -58,7 +58,7 @@ description: 아이랩 옵션 설정법에 대한 매뉴얼
 
 ![&#xD544;&#xC218;&#xD56D;&#xBAA9; &#xC124;&#xC815;&#xD558;&#xAE30; &#xC635;&#xC158;&#xC5D0; &#xC811;&#xADFC;&#xD558;&#xB294; &#xBC29;&#xBC95;](../.gitbook/assets/14%20%284%29.png)
 
-![&#xD544;&#xC218;&#xD56D;&#xBAA9; &#xC124;&#xC815;&#xD558;&#xAE30;&#xB97C; &#xB20C;&#xB800;&#xC744;&#xB54C; &#xD654;&#xBA74;](../.gitbook/assets/10%20%284%29.png)
+![&#xD544;&#xC218;&#xD56D;&#xBAA9; &#xC124;&#xC815;&#xD558;&#xAE30;&#xB97C; &#xB20C;&#xB800;&#xC744;&#xB54C; &#xD654;&#xBA74;](../.gitbook/assets/10%20%285%29.png)
 
 입금자와, 확정수수료를 추가하였을때 이미지입니다.   
   
