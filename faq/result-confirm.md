@@ -16,7 +16,7 @@ description: '승인자가 승인을 하였음에도 불구하고, 결재상태�
 
 반려가 표시 되고 있습니다. 이때 좌측을 보면 회차의 부분에  1과 2로 서로 나눠져서 표시가 됩니다.
 
-![&#xB0B4; &#xACB0;&#xC7AC;&#xAD00;&#xB9AC; &#xD654;&#xBA74;&#xC5D0;&#xC11C;&#xC758; &#xACB0;&#xC7AC; &#xC9C4;&#xD589; &#xC0C1;&#xD0DC;](../.gitbook/assets/2%20%282%29.png)
+![&#xB0B4; &#xACB0;&#xC7AC;&#xAD00;&#xB9AC; &#xD654;&#xBA74;&#xC5D0;&#xC11C;&#xC758; &#xACB0;&#xC7AC; &#xC9C4;&#xD589; &#xC0C1;&#xD0DC;](../.gitbook/assets/2%20%283%29.png)
 
 내 결재관리화면에서 접수건의 상태를 조회해 보아도 반려가 나타납니다. 
 
