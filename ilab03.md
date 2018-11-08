@@ -11,7 +11,7 @@
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
-##  [아이랩 실행파일 다운로드](https://github.com/wooritech/ilab-user-manual/raw/master/assets/iLabApp.zip)
+##  [아이랩 실행파일 다운로드](https://github.com/wooritech/ilab-user-manual/raw/master/assets/iLab20181108/iLabApp.exe.zip)
 
 {% hint style="info" %}
 업데이트 버전 아이랩 실행방법 \(2018-11-08 10:24\)  
