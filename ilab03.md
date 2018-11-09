@@ -5,30 +5,12 @@
 
 ## 1. 설치 순서
 
-{% hint style="danger" %}
-2018-11-08 보안접속 관련 문제로 로그인 시 반드시 보안접속을 OFF로 설정 후 로그인 해주십시오.
+{% hint style="success" %}
+2018-11-09 09:00 보안접속 관련 문제가 해결되었습니다.
 {% endhint %}
 
-![](.gitbook/assets/image%20%2814%29.png)
+###  [아이랩 실행파일 다운로드](https://github.com/wooritech/ilab-user-manual/raw/master/assets/iLab20181108/iLabApp.exe.zip)\*\*\*\*
 
-##  [아이랩 실행파일 다운로드](https://github.com/wooritech/ilab-user-manual/raw/master/assets/iLab20181108/iLabApp.exe.zip)
-
-{% hint style="info" %}
-업데이트 버전 아이랩 실행방법 \(2018-11-08 10:24\)  
-  
- 1. 상단의 파란색 "아이랩 실행파일 다운로드" 링크를 통해 아이랩을 다운받습니다.  
-  
- 2. 압축을 풀고 실행파일을 실행시키면 자동으로 설치되며, "보안접속을 반드시 off" 상태로   
-로그인합니다.  
-  
- 3. 그 다음 반드시 종료후 재실행한다음 아이랩을 사용하십시오.
-{% endhint %}
-
-{% hint style="danger" %}
- 아이랩을 재실행하지 않을 경우, 업데이트가 되지않아 배경이미지 출력이 어렵습니다.
-{% endhint %}
-
-  
 **１.** 아이랩을 설치할 위치에 새로운 폴더를 하나 생성하고, 원하는 폴더 명칭으로 변경합니다.  
 ① 제공받은 iLabApp.exe 파일을 해당 폴더로 이동 시킵니다.  
 ② iLabApp.exe 파일을 실행합니다.  
