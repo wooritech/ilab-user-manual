@@ -5,10 +5,6 @@
 
 ## 1. 설치 순서
 
-{% hint style="success" %}
-2018-11-09 09:00 보안접속 관련 문제가 해결되었습니다.
-{% endhint %}
-
 ###  [아이랩 실행파일 다운로드](https://github.com/wooritech/ilab-user-manual/raw/master/assets/iLab20181108/iLabApp.zip)\*\*\*\*
 
 **１.** 아이랩을 설치할 위치에 새로운 폴더를 하나 생성하고, 원하는 폴더 명칭으로 변경합니다.  
