@@ -80,6 +80,7 @@
   * [아이랩 실행 오류 문제](faq/ilab-error.md)
   * [PDF변환 출력시 깨짐 현상](faq/pdf.md)
   * [두 대의 PC에서 다른 인쇄 결과](faq/pc.md)
+  * [보안프로그램에 의한 아이랩 차단 문제](faq/undefined-2.md)
   * [임시공휴일 지정 방법](faq/hoilday.md)
   * [새로운 사용자 추가 방법](faq/accounts-add.md)
   * [리포트에 대괄호 사용](faq/report-patch.md)
